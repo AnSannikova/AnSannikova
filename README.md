@@ -21,6 +21,13 @@
        <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
 </div>
 
+
+## Обо мне
+- Воплощаю в жизнь интерфейсы с заботой о людях :sparkles:
+- С удовольствием погружаюсь в изучение новых аспектов frontend-разработки :woman_technologist:
+- Активно ищу работу :briefcase: 
+
+
 <div id="contacts-block">
   <h3>Мои контакты</h3>  
   <a target="_blank" href='https://t.me/AnsSnn'><img src="https://github.com/AnSannikova/AnSannikova/assets/104262582/7f4bedcf-d8ce-4838-8665-7d61b2ac7ffb" width="30"/></a>
