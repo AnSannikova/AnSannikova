@@ -27,13 +27,6 @@
 - С удовольствием погружаюсь в изучение новых аспектов разработки :woman_technologist:
 - Активно ищу работу :briefcase: 
 
-
-<div id="contacts-block">
-  <h3>Мои контакты</h3>  
-  <a target="_blank" href='https://t.me/AnsSnn'><img src="https://github.com/AnSannikova/AnSannikova/assets/104262582/7f4bedcf-d8ce-4838-8665-7d61b2ac7ffb" width="30"/></a>
-  <a target="_blank" href='https://vk.com/id71281426'><img src="https://github.com/AnSannikova/AnSannikova/assets/104262582/96c1c946-d4d4-4e7a-bcbd-4079b95558e0" width="30"/></a>     
-</div>
-
 <hr>
 
 
