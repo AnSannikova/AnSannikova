@@ -12,11 +12,5 @@
 - Активно ищу работу :briefcase: 
 
 <hr>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnSannikova&title=Commits,Repositories,Experience,PullRequest,Followers&theme=dracula)](https://github.com/AnSannikova/github-profile-trophy)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnSannikova&layout=compact)](https://github.com/AnSannikova/github-readme-stats)
     
 
